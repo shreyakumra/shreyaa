@@ -1,0 +1,44 @@
+
+.div1 {
+  color: black;
+  font-size: 500%;
+  text-shadow: 10px 2px #353333;
+  font-family: "Times New Roman", Times, serif;
+
+
+  text-align: center;
+  font-weight:700;
+}
+
+
+a {
+  text-decoration:none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: PaleGoldenRod;
+  font-size: 500;
+}
+
+.div3 {
+  text-decoration: line-through;
+  color: PaleGoldenRod;
+  font-size: small;
+  text-indent: 0px;
+  letter-spacing: 3px;
+  line-height: 2;
+  text-align: left;
+  font-weight:500;
+  word-spacing: 5px;
+  text-shadow: 3px 2px #353333;
+
+
+paragraph
+.div {
+
+
+}
