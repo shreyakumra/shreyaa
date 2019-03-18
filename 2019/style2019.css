@@ -26,10 +26,8 @@ a:visited {
  color: black;
 }
 
-a:hover {
- color: PaleGoldenRod;
- font-size: 500;
-}
+
+
 
 .div2 {
  text-decoration: none;
