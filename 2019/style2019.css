@@ -8,6 +8,16 @@ text-align: center;
 
 }
 
+.img-nyfw {
+
+ border: 1px solid #ddd;
+border-radius: 10%;
+height: 500px;
+ width: 400px;
+
+}
+
+
 a {
  text-decoration:none;
 }
@@ -24,7 +34,7 @@ a:hover {
 .div2 {
  text-decoration: none;
  color: PaleGoldenRod;
- font-size: 100px;
+ font-size: 30px;
  text-indent: 0px;
  letter-spacing: 3px;
  line-height: 2;
